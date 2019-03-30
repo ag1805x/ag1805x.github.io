@@ -86,7 +86,7 @@ padding-right: 50px;
 
 
 .icons{
-position:fixed;
+position:relative;
 bottom: 0;
 margin: auto;
 padding-bottom: 20px; 
