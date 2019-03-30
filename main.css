@@ -16,6 +16,7 @@ body {
   backface-visibility: hidden;
   background-size: 100% 100%;
   background-position: center center;
+  background-attachment: fixed;
   color: transparent;
   height: 100%;
   left: 0px;
