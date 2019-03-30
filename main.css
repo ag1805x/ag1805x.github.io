@@ -23,23 +23,23 @@ body {
 }
 
 .crossfade > figure:nth-child(1) {
-  background-image: url('/home/bioinfo/Pictures/Wallpapers/IMG_5956.JPG');
+  background-image: url('../Pictures/IMG_0429.JPG');
 }
 .crossfade > figure:nth-child(2) {
   animation-delay: 6s;
-  background-image: url('/home/bioinfo/Pictures/Wallpapers/IMG_2548.JPG');
+  background-image: url('../Pictures/IMG_1251.JPG');
 }
 .crossfade > figure:nth-child(3) {
   animation-delay: 12s;
-  background-image: url('/home/bioinfo/Pictures/Wallpapers/IMG_1490.JPG');
+  background-image: url('../Pictures/IMG_2548.JPG');
 }
 .crossfade > figure:nth-child(4) {
   animation-delay: 18s;
-  background-image: url('../img/004.jpg');
+  background-image: url('../Pictures/IMG_3497.JPG');
 }
 .crossfade > figure:nth-child(5) {
   animation-delay: 24s;
-  background-image: url('../img/005.jpg');
+  background-image: url('../Pictures/IMG_5956.JPG');
 }
 
 @keyframes imageAnimation {
