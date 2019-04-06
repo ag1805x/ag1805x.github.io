@@ -29,11 +29,6 @@ animation-iteration-count: infinite;
 
 
 
-
-
-
-
-
 .crossfade > figure:nth-child(1) {
   background-image: url('Pictures/IMG_5956.JPG');
 }
@@ -96,7 +91,7 @@ padding-right: 50px;
 
 
 .icons{
-position:fixed;
+position:relative;
 bottom: 0;
 margin: auto;
 padding-bottom: 20px; 
