@@ -35,7 +35,7 @@ animation-iteration-count: infinite;
 
 
 .crossfade > figure:nth-child(1) {
-  background-image: url('../Pictures/IMG_5956.JPG');
+  background-image: url('Pictures/IMG_5956.JPG');
 }
 .crossfade > figure:nth-child(2) {
   animation-delay: 6s;
