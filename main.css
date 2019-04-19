@@ -7,7 +7,6 @@ body {
   background-color: #000000;
 }
 
-
 .crossfade > figure {
 animation-name: imageAnimation;
 animation-duration: 30s;
@@ -26,8 +25,6 @@ top: 0px;
 width: 100%;
 z-index: 0;
 }
-
-
 
 .crossfade > figure:nth-child(1) {
   background-image: url('Pictures/IMG_5956.JPG');
@@ -87,16 +84,12 @@ padding-left: 1%;
 padding-right: 1%;
 }
 
-
-
-
 .icons_panel{
 position:relative;
 margin: auto;
 width: 100%;
 text-align: center;
 }
-
 
 .icon{
 border: none; 
