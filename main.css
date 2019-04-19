@@ -90,9 +90,16 @@ padding-right: 1%;
 
 
 
-.icons{
+.icons_panel{
 position:relative;
 margin: auto;
 width: 100%;
 text-align: center;
+}
+
+
+.icon{
+border: none; 
+height: 50px; 
+width: 50px;
 }
