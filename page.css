@@ -87,3 +87,8 @@ li.second{
   overflow: hidden;
   background-color: #f1f1f1;
 }
+
+/* Remove undeline from hyperlinks*/
+a {
+	text-decoration:none;
+}
