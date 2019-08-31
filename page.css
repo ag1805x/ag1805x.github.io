@@ -34,7 +34,7 @@ body::-webkit-scrollbar-thumb {
    padding-top: 1%; 
    padding-bottom: 5%; 
    padding-left: 10%; 
-   padding-right: 3%;
+   padding-right: 10%;
    margin: auto;
 }
 
