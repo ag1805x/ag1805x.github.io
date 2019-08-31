@@ -4,7 +4,7 @@
 }
 
 /* Background of webpage */
-body {
+html {
 	background: url(Pictures/IMG_20181019_103626087_HDR.jpg) no-repeat center center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -12,7 +12,8 @@ body {
 	background-size:  cover;
 	height: 100%;
 }
-
+body {
+}
 /* Customizing the scroll bar */
 body::-webkit-scrollbar {
     width: 0.3em;
