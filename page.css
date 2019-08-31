@@ -4,17 +4,11 @@
 }
 
 /* Background of webpage */
-html {
-	background: url(Pictures/IMG_20181019_103626087_HDR.jpg) no-repeat center center fixed; 
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size:  cover;
-	height: 100%;
+body {
 }
-/*body {
-}
-/* Customizing the scroll bar /
+
+
+/* Customizing the scroll bar */
 body::-webkit-scrollbar {
     width: 0.3em;
 }
@@ -26,7 +20,7 @@ body::-webkit-scrollbar-track {
 body::-webkit-scrollbar-thumb {
   background-color: darkgrey;
   outline: 1px solid slategrey;
-}*/
+}
 
 
 /* Customizing the webpage content */
