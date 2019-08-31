@@ -3,6 +3,7 @@
   margin: 0
 }
 
+/* Background of webpage */
 html { 
   background: url(Pictures/IMG_20181019_103626087_HDR.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
@@ -10,10 +11,10 @@ html {
   -o-background-size: cover;
   background-size: cover;
   height: 100%;
-
+  overflow: auto;
 }
 
-/* Background of webpage */
+
 body {
 }
 
@@ -31,6 +32,7 @@ body::-webkit-scrollbar-thumb {
   background-color: darkgrey;
   outline: 1px solid slategrey;
 }
+
 
 
 /* Customizing the webpage content */
