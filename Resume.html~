@@ -1,0 +1,165 @@
+<!-- <!DOCTYPE html> -->
+<!-- <html> -->
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-68422343-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-68422343-6');
+</script>
+
+<!-- Favicon -->
+<link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
+<link rel="manifest" href="favicon/site.webmanifest">
+
+<title>Arindam Ghosh</title>
+<meta name="generator" content="Bluefish 2.2.10" >
+<meta name="author" content="Arindam Ghosh" >
+<meta name="date" content="2020-12-12T20:01:47+0200" >
+<meta name="copyright" content="ArindamGhosh">
+<meta name="keywords" content="Bioinformatics,Travel">
+<meta name="description" content="Personal website">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8">
+<meta http-equiv="content-style-type" content="text/css">
+<meta http-equiv="expires" content="0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="page.css">
+<link rel="stylesheet" href="topnav.css">
+
+</head>
+
+<body>
+
+
+<div class="navbar">
+  <div class="dropdown">
+    <button class="dropbtn"><img height="30" src="favicon/apple-touch-icon.png" alt=""> 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="index.html">Home</a>
+      <a href="Resume.html">Resume</a>
+      <a href="aXweb.html">Across The Web</a>
+      <a href="ScientificResources.html">Scientific Resources</a>
+    </div>
+  </div>
+    <a href="index.html">Arindam Ghosh : Resume</a> 
+</div>
+
+
+<div class="content">
+
+
+<!-- Education -->
+	<button class="collapsible">Education</button>
+		<div class="CollapseContent">
+		  <p class="small"><strong>2017 : Master of Science (Bioinformatics).</strong> &nbsp; Alagappa University, Karaikudi, TN, India</p>
+		  <p class="small"><strong>2015 : Bachelor of Science (H) (Biotechnology).</strong> &nbsp; Institute of Genetic Engineering, Kolkata, WB, India</p>
+		  <p class="small"><strong>2012 : HSSLC (12th).</strong> &nbsp; Don Bosco College, Tura, ML, India</p>
+		  <p class="small"><strong>2010 : SSLC (10th).</strong> &nbsp; Sherwood School, Tura, ML, India</p>
+		</div>
+
+<!-- Research Experiences -->
+	<button class="collapsible">Research Experiences</button>
+		<div class="CollapseContent">
+			<p class="small"><strong>Dec 2020 - Current : Early Stage Researcher.</strong> University of Eastern Finland, Kuopio, Finland<br>
+				<li class="second">Project: Metabolic effects of Endocrine Disrupting Chemicals: novel testing METhods and adverse outcome pathways (EDCMET)</li></p>
+			
+			<p class="small"><strong>Sept 2017 - Sept 2020 : Junior Research Fellow.</strong> University of Allahabad, Prayagraj, UP, India<br>
+				<li class="second">Project: Understanding and influencing pluripotency & reprogramming: A network biology approach</li>
+				<li class="second">Worked towards identification of crucial genes involved in human pluripotency using RNA-sequencing data and network biology. </li></p>
+			
+			<p class="small"><strong>Dec - Apr 2017 : M.Sc. dissertation.</strong> Alagappa University, Karaikudi, TN, India<br>
+				<li class="second">Thesis title: <i>In vitro</i> and <i>in silico</i> studies on Kanamycin resistance protein (TTHA1575) from <i>Thermus thermophilus</i> HB8</li>
+				<li class="second">Purification of the target protein was carried out by cloning and over-expressing the gene construct through E. Coli.</li>
+				<li class="second">Used molecular modelling approach to understand the structure and function of the target protein.</li></p>
+
+			<p class="small"><strong>May - July 2016 : Summer Research Fellow.</strong> CSIR-Central Salt and Marine Chemicals Research Institute, Bhavnagar, GJ, India<br>
+				<li class="second">Thesis title: Study of the bacterial diversity in seawater of Gujarat coast using culture independent (metagenomics) approach</li>
+				<li class="second">Used gene targeted metagenomics approach to infer the bacterial diversity at three sites.</li></p>
+
+			<p class="small"><strong>Jan - May 2015 : B.Sc. dissertation.</strong> Institute of Genetic Engineering, Kolkata, WB, India<br>
+				<li class="second">Thesis title: A computational approach to study the binding of calcitonin peptide family receptors</li>
+				<li class="second">Used molecular docking and dynamics to identify the binding modes of calcitonin to its receptors.</li></p>
+
+		</div>
+
+<!-- Publications/Preprints -->
+	<button class="collapsible">Publications/Preprints</button>
+		<div class="CollapseContent">
+			<li class="first">Ghosh, A., and Som, A., 2020. Decoding molecular markers and transcriptional circuitry of naive and primed states of human pluripotency. <a href="https://doi.org/10.1101/2020.04.17.046037">bioRxiv : 046037.</a></li>
+			<li class="first">Ghosh, A., and Som, A., 2020. RNA-Seq analysis reveals pluripotency-associated genes and their interaction networks in human embryonic stem cells. <a href="https://doi.org/10.1016/j.compbiolchem.2020.107239">Computational Biology and Chemistry, 85 : 107239.</a></li>
+			<li class="first">Som, A., Kumari, P. and Ghosh, A., 2019. Advancing India’s bioinformatics education and research: an assessment and outlook. <a href="https://doi.org/10.1007/s42485-019-00017-7">Journal of Proteins and Proteomics, 10(3): 257-267.</a>  </li>
+		</div>
+		
+<!-- Conferences/Workshops -->
+	<button class="collapsible">Conferences/Workshops</button>
+		<div class="CollapseContent">
+
+			<li class="first">5th IITM - Tokyo Tech Joint Symposium titled "Current trends in Bioinformatics: Big data analysis, machine learning and drug design"<br>
+			Venue: Indian Institute of Technology – Madras, Chennai. 6–7th March 2020<br>
+			Presented poster entitled “<a href="http://dx.doi.org/10.13140/RG.2.2.34422.75847/1">Identification of molecular markers defining naive and primed stages of human pluripotent stem cells</a>”</li>		
+			
+			<li class="first">Symposium on “Accelerating Biology 2020 : SNiPs to SPiNs”<br>
+			Venue: Centre for Development of Advanced Computing, Pune. 4-6th February 2020</li>
+		
+			<li class="first">EMBL-EBI Workshop on “Analysis of Genome Scale Data from Bulk and Single-Cell Sequencing”<br>
+			Venue: National Institute of Biomedical Genomics, Kalyani. 19th-23rd November 2018</li>
+			
+			<li class="first">International Conference on “Bioinformatics and Systems Biology” (WBSB-2018)<br>
+			Venue: Indian Institute of Information Technology – Allahabad, Prayagraj. 26-28th October 2018<br>
+			Presented poster entitled “<a href="https://www.researchgate.net/publication/332964042_RNA-Seq_reveals_the_candidate_genes_and_their_interactions_in_human_pluripotency">RNA-seq reveals the candidate genes and their interactions in human pluripotency</a>”</li>
+			
+			<li class="first">9th National Symposium cum Workshop on “Recent Trends in Structural Bioinformatics and Computer Aided Drug Design” (SBCADD-2017)<br>
+			Venue: Dept. of Bioinformatics, Alagappa University, Karaikudi. 14-17th February 2017<br>
+			Presented poster entitled “<a href="https://www.researchgate.net/publication/325415612_In_silico_and_In_vivo_studies_on_predicted_Kanamycin_resistance_protein_from_Thermus_thermophilus_HB8"><i>In silico</i> and <i>in vivo</i> studies on Kanamycin resistance protein (TTHA1575) from <i>Thermus thermophilus</i> HB8</a>”</li>
+			
+			<li class="first">International Workshop on “Molecular Physiology, Therapeutics and Experimental Medicine” (MPTEM-2016)<br> 
+			Venue: Dept. of Animal Health and Management, Alagappa University, Karaikudi. 6–7th 	September 2016</li> 
+			
+			<li class="first">8th National Symposium cum Workshop on “Recent Trends in Structural Bioinformatics and Computer Aided Drug Design” (SBCADD-2016)<br>
+			Venue: Dept. of Bioinformatics, Alagappa University, Karaikudi. 16-19th February 2016</li>
+			
+			<li class="first">Training program on “Basic Molecular Biological Techniques”<br>
+			Venue: DSR Genome Technology, Ekta Incubation Center, Kolkata. 11th-31st December 2014</li>
+		
+		</div>
+		
+<!-- Fellowships Obtained -->		
+<button class="collapsible">Fellowship Obtained</button>
+		<div class="CollapseContent">
+			<li class="first">IASc-INSA-NASI Summer Research Fellowship 2016</li>		
+		</div>
+
+<!-- Test(s) Qualified) -->		
+<button class="collapsible">Tests Qualified</button>
+		<div class="CollapseContent">
+			<li class="first">Graduate Aptitude Test in Engineering (GATE) 2017 [Biotechnology]</li>
+		</div>
+
+<!-- Relevant Skills -->
+<button class="collapsible">Relevant Skills</button>
+		<div class="CollapseContent">
+			<li class="first">Bioinformatics: Molecular modelling, RNA-seq data analysis</li>
+			<li class="first">OS: Linux, Windows</li>
+			<li class="first">Programming/Scripting: C, Perl, R, HTML</li>
+			<li class="first">Biotechnology: Nucleic acid isolation, Polymerase Chain Reaction (PCR), Protein purification</li>		
+		</div>
+
+
+
+
+</div>
+
+<script src="CollapsibleContent.js"> 
+
+</script>
+
+
+</body>
+<!-- </html> -->
