@@ -100,10 +100,10 @@ body{
 /*For index page*/
 
 .index_footer {
-  background-color:black;
+  background-color:#00FFFF;
   font-family: cursive;
   font-size: 20px;
-  color: white;
+  color: black;
   text-align:center;
   position: relative;
 }
@@ -112,7 +112,7 @@ body{
 }
 
 .index_footer a:visited {
-  color: whitesmoke;
+  color: #008B8F;
 }
 
 .index_wrapper {
