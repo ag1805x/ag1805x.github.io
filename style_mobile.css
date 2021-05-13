@@ -1,3 +1,5 @@
+/*For Computer screens */
+
 body {
   background-color: whitesmoke;
 }
@@ -180,7 +182,7 @@ width: 70px;
 /* ------------------------------------------------------------------------------*/
 
 /*For smaller screen size*/
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 740px) {
 
   .page_nav {
     height: 70px;
