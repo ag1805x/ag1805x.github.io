@@ -46,7 +46,7 @@ body {
 }
 
 .page_nav a:hover {
-  color: #f1f1f1;
+  color: red;
 }
 
 .page_nav a:active {
