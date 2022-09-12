@@ -55,7 +55,8 @@ body {
   opacity:0.1;
 }
 
-.foot_text {
+.foot_text {  # not working online
+  display: none;
   position: fixed;
   bottom: 0;
   padding: 0px 0px 20px 20px;
