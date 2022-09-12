@@ -55,14 +55,6 @@ body {
   opacity: 0.1;
 }
 
-.foot_text {
-  position: fixed;
-  bottom: 0;
-  padding: 0px 0px 20px 20px;
-  text-decoration: none;
-  font-size: 20px;
-}
-
 /* ------------------------------------------------------------------------------*/
 
 /*For all pages*/
@@ -239,15 +231,6 @@ width: 70px;
     border: 2px solid;
     margin-left: auto;
     margin-right: auto;
-  }
-
-  .foot_text {
-    display: none;
-    position: fixed;
-    bottom: 0;
-    padding: 0px 0px 20px 20px;
-    text-decoration: none;
-    font-size: 20px;
   }
 
   }
